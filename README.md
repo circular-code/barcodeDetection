@@ -10,7 +10,7 @@ by entering the following url into the browser address bar
 chrome://flags/#enable-experimental-web-platform-features
 and select enabled on experimental-web-platform-features
 
-visit the website 
+2: visit the website 
 https://circular-code.github.io/barcodeDetection/
 and click on images to detect the barcode of your choice
 
