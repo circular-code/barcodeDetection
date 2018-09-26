@@ -6,8 +6,8 @@ Only works on mobile
 
 ### how to use
 1: Enable chrome barcode detection (experimental features) if your version of chrome is below 70
-by entering the following url into the browser address bar
-chrome://flags/#enable-experimental-web-platform-features
+by entering the following url into the browser address bar<br><br>
+chrome://flags/#enable-experimental-web-platform-features<br><br>
 and select enabled on experimental-web-platform-features
 
 2: visit the website 
