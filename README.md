@@ -2,7 +2,7 @@
 Test application for the chrome barcode detection feature.
 
 ### restrictions
-Only works on mobile, also only on chrome obviously
+Only works on mobile, also only on chrome obviously.
 
 ### how to use
 1: Enable chrome barcode detection (experimental features) if your version of chrome is below 70
