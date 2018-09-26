@@ -1,6 +1,9 @@
 # barcodeDetection
 test application for the chrome barcode detection feature
 
+### restrictions
+Only works on mobile
+
 ### how to use
 1: enable chrome barcode detection (experimental features) if your version of chrome is below 70
 by entering the following url into the browser address bar
@@ -12,7 +15,7 @@ https://circular-code.github.io/barcodeDetection/
 and click on images to detect the barcode of your choice
 
 ### supported formats:
-#####1D barcodes:
+##### 1D barcodes:
 EAN-13, EAN-8, UPC-A, UPC-E, Code-39, Code-93, Code-128, ITF, Codabar
 
 ##### 2D barcodes:
