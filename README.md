@@ -1,11 +1,11 @@
 # barcodeDetection
-test application for the chrome barcode detection feature
+Test application for the chrome barcode detection feature.
 
 ### restrictions
 Only works on mobile
 
 ### how to use
-1: enable chrome barcode detection (experimental features) if your version of chrome is below 70
+1: Enable chrome barcode detection (experimental features) if your version of chrome is below 70
 by entering the following url into the browser address bar
 chrome://flags/#enable-experimental-web-platform-features
 and select enabled on experimental-web-platform-features
